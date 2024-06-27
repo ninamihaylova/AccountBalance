@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountBalance", "AccountBalance\AccountBalance.csproj", "{1DF2250E-959A-416E-BE54-7A8128D78D93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DF2250E-959A-416E-BE54-7A8128D78D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF2250E-959A-416E-BE54-7A8128D78D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF2250E-959A-416E-BE54-7A8128D78D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF2250E-959A-416E-BE54-7A8128D78D93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
